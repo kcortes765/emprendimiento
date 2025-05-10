@@ -1,0 +1,6 @@
+streamlit==1.32.0
+folium==0.15.1
+pandas==2.2.2
+faker==24.4.0
+matplotlib==3.8.4
+streamlit-folium==0.18.0
